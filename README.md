@@ -12,7 +12,7 @@ Participating is very easy and can be done in the following way
 2. Head over to [this link](https://github.com/IIITKalyaniFOSC/design-jam-2018/issues) to create a new issue.
 3. Click the 'New issue' button (the big green one) to create a new issue and mention your Name, Year, and Roll number in the title as "Name, Year, 39/XXX/XXXXX/XXX".
 4. Click on 'Submit new issue' button.
-You can now attach the image you made in the comment under taht issue.
+You can now attach the image you made in the comment under that issue.
 
 
 ## Competition Period
