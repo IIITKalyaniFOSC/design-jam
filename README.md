@@ -23,7 +23,7 @@ You can now attach the image you made in the comment under taht issue.
 *Voting will take place on GitHub after 23 May 2018 for the result.*
 
 ## Important Guidelines
-1. You should submit a vector image (preferably a *.svg file)
+1. You should submit a vector image (preferably a *.svg file). A raster image may also be considered if the resolution is large enough.
 2. The logo should not contain any copyrighted material.
 3. You must stick to the aforementioned competition period.
 
