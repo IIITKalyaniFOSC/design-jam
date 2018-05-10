@@ -1,9 +1,7 @@
 # Design Jam 2018
-![Design Jam](https://github.com/IIITKalyaniFOSC/design-jam/blob/2018/designjam.png "Logo Title Text 1")
+![Design Jam](https://github.com/IIITKalyaniFOSC/design-jam/blob/2018/designjam.png "Design Jam 2018")
 
-Design Jam 2018 is basically a logo designing competition for IIIT Kalyani FOSC and is being organized by the same.
-IIIT Kalyani FOSC is the Free and Open Source Community of the college. It consists of people who love open source and is currently in the beginning stage.
-And, as a matter of fact, it needs a beautiful logo. 
+__Design Jam__ is Free and Open Source Community's annual design competition. For Design Jam 2018, our very first design jam, __we will focus on coming up with a logo for our own FOSC.__
 
 ## Who can participate ?
 Anyone who is a student of Indian Institute of Information Technology Kalyani can participate in Design Jam 2018.
