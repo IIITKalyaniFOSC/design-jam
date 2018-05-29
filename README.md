@@ -1,7 +1,7 @@
 # Design Jam 2018
 ![Design Jam](https://github.com/IIITKalyaniFOSC/design-jam/blob/2018/designjam.png "Design Jam 2018")
 
-__Design Jam__ is Free and Open Source Community's annual design competition. For Design Jam 2018, our very first design jam, __we focused on coming up with a logo for our own FOSC.__
+__Design Jam__ is Free and Open Source Community's annual design competition. For Design Jam 2018, our very first design jam, __we focused on creating a logo for our own FOSC.__
 ## Winner
   [Satyam Kumar](https://github.com/IIITKalyaniFOSC/design-jam/blob/2018/submissions/Satyam-TG/submission.md)
   
